@@ -1,0 +1,18 @@
+.photo2{
+    display: inline-block;
+    background-color: chocolate;
+    height: 100px;
+    width: 200px;
+    margin-left: 290px;
+}
+.vlad{
+    display: inline-block;
+    background-color:black;
+    height: 100px;
+width: 100px;
+}
+.head{
+    background-color:black;
+    display: inline-block;
+    color: white;
+}
