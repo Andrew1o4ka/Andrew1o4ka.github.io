@@ -86,12 +86,13 @@ margin: 0px 100px;
     border: 1px solid wheat
 }
 .text{
-    max-resolution: px;
+    color: green;
     margin: 0px 10px;
 }
 .end{
     display: flex;
     justify-content: center;
+    color: grey;
 }
 .footer{
    display: flex;
