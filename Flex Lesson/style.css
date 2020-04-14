@@ -3,6 +3,13 @@
 }
 #vlad{
     color: burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+    font-family: 'Roboto', sans-serif;
+    background-color: blue;
 }
 .photo{
     background-image: url(https://cdn.pixabay.com/photo/2017/05/03/23/39/ok-2282499_960_720.png);
@@ -31,9 +38,15 @@
 .four{flex-grow: 4;}
 .five{flex-grow: 5;}  */
 
-.pp{
-    color: blue;
-}
+ .pp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+    font-family: 'Roboto', sans-serif;
+    /* background-color: blue; */
+} 
 .container7{
     display: flex;
     justify-content: row;
@@ -42,7 +55,7 @@
     margin: 0px 645px;
     
 }
-.container{
+.container121{
 display: flex;
 justify-content: center;
 }
@@ -65,6 +78,7 @@ margin: 0px 100px;
 }
 .chay{
     margin:0px 150px;
+    justify-content: space-around;
 }
 .section2{
     display: flex;
@@ -110,3 +124,61 @@ margin: 0px 100px;
     margin: 0px 600px;
     color: black;
 }
+ .vlad21{
+display: flex;
+justify-content: center;
+} 
+.container{
+    height: 0px;
+    width: 0px;
+    display: flex;
+    justify-content: space-between;
+    /* background-color:#2222; */
+}
+.menu{
+    display: flex;
+    height: 100px;
+    width: 1000px;
+    margin: 0px 110px 600px 800px;
+   
+}
+.navs{
+    display: flex;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+    justify-content: center;
+    font-family: 'Open Sans', sans-serif;
+
+}
+}
+/* ul.css-menu-1 {
+    list-style: none;
+    margin: 0px 10px;
+    }
+    
+    ul.css-menu-1 li {
+    display: flex;
+
+    }
+    
+    ul.css-menu-1 li a {
+    font-family: Tahoma, Geneva, sans-serif;
+    text-decoration: none;
+    background: #5c6cb7;
+    font-weight: bold;
+    color: #ffaa00;
+    padding: 6px 10px 6px 10px
+    }
+    
+    ul.css-menu-1 li a:hover {
+    padding: 6px 10px 6px 10px;
+    font-weight: bold;
+    background: #364d95;
+    color: #ff9900
+    }
+    
+    ul.css-menu-1 li a.selected {
+    background: #364e95
+    
+    } */
