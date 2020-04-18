@@ -1,0 +1,126 @@
+ .container2{
+    height: 200px;
+    width: 200px;
+    
+    position: relative;
+    display: flex;
+}
+.circle2{
+    position: absolute;
+    top:  60px;
+    left: 60px;
+}
+.icon2{
+    position: absolute;
+    top:  75px;
+    left: 77px;
+}
+.main2{
+    display: flex;
+    justify-content: space-around;
+} 
+.two{justify-content: center;
+
+    display: flexbox;
+
+margin-bottom: 110px;}
+
+    .c{margin: 0 550px;
+
+        font-family: 'Great Vibes', cursive; }
+
+        .section7{ display:flex;
+
+            justify-content:center;
+
+            margin-top: 100px;
+
+            font-family: 'Dancing Script', cursive;
+
+            font-family: 'Roboto', sans-serif;}
+
+
+
+
+
+
+
+    .d{margin: 0 500px;}
+    .conteiner{display: flex;
+
+        height: 100px;
+  
+      ;
+  
+  justify-content: space-between;
+  
+  margin-bottom: 130px;}
+  
+      .logo{height: 100px;width: 100px;display: flex;
+  
+      justify-content: center; align-items: center ;
+  
+      font-family: 'Righteous', cursive;font-size: 30px;}
+  
+      .menu{height: 100px;width: 700px;display: flex;justify-content: center;}
+  
+      .nal{height: 100px;width: 100px;
+  
+      justify-content: center;
+  
+  display: flex;
+  
+  align-items: center;
+  
+  font-family: 'Dancing Script', cursive;
+  
+  font-family: 'Roboto', sans-serif;
+  
+  font-size:20px ;}
+  .ok{
+      display: flex;
+      justify-content: space-around;
+  }
+  .text11{display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    }
+  .textkv{
+      display: flex;
+      justify-content: space-around;
+      opacity: 0.5;
+  }
+  .main222{background-color: black;
+    margin-top: 100px;}
+    .ok2{justify-content: center;
+    display: flex;
+    }
+    .Bnn{color: white;}
+    .andrew{justify-content: center;
+    font-size: medium;
+    display: flex;
+    opacity: 0.5;
+    }
+    .b2b2{color: white;}
+    .input1{margin-left: 20px;
+    margin-bottom: 43px;
+    }
+    .linkorn222{
+        margin-left: 50px;
+    }
+    .fff{display: flex;
+    justify-content: center;
+    margin-top: 100px;}
+    .checked{
+    justify-content: center; }
+    .click{color: white;
+        background:blue;
+    height:50px ; width: 200px;    
+    margin-left: 570px;}
+    .b2b {
+        background: blue; 
+        color: white; 
+        font-size: 14pt; 
+        height:50px ; width: 200px;  
+        margin-left: 570px;
+       }
