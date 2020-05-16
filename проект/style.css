@@ -1,0 +1,75 @@
+body{
+    margin:0;
+    padding:0;
+}
+.bg{ 
+    width: 100%;
+height: 100vh; 
+background-image: url(Layer\ 34.png); 
+} 
+.logo{ 
+    display: block;
+position: relative; 
+/* top: 26px; 
+left: 42px;  */
+} 
+.menu{ 
+    /* position: relative;  */
+    display: flex; 
+    justify-content: space-between;
+    width:700px;
+    /* margin: 0 900px;  */
+     
+    /* top: 28px;  */
+} 
+.nal{ 
+    font-size: 20px; 
+color: #ffffff; 
+font-family: "Raleway"; 
+font-weight: 700; 
+justify-content: space-around; 
+ 
+} 
+.container{ 
+    display: flex; 
+    justify-content: space-between;
+    width:1350px;
+    margin:0 auto;
+    position: relative;
+    top:35px;
+}
+.header1{
+    position: relative;
+    font-size: 35px;
+line-height: 71px;
+color: #ffffff;
+font-family: "Open Sans";
+font-weight: 700;
+text-align: center;
+top: 200px;
+}
+.text1{
+    position: relative;
+    font-size: 22px;
+line-height: 33px;
+color: #ffffff;
+font-family: "Raleway";
+text-align: center;
+top: 250px;
+}
+.button1{
+    position: relative;
+    top: 300px;
+    text-align: center;
+    border: 2px  red;   
+}
+@keyframes gg{
+    from[
+        margin-left: 100%;
+        width: 300%;
+    ]
+    to{
+        margin-left: 0%;
+        width: 100%;
+    }
+}
